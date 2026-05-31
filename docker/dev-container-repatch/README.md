@@ -10,7 +10,7 @@ You must have installed [Docker](https://docs.docker.com/get-started/get-docker/
 First clone the RePatch repository. RePatch is an extension of RefMerge by [Ellis et al.](https://github.com/ualberta-smr/RefMerge).
 ```
 cd <path to your git folder>
-git clone  https://github.com/danielogen/RePatch.git
+git clone  https://github.com/unlv-evol/RePatch.git
 ```
 
 Assuming Docker is running, initially, build the Docker image with:
